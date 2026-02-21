@@ -73,6 +73,44 @@ A simple real-world mini project that:
 - Organize projects into structured folders
 
 ---
+# Python Daily Projects Practices - Day_02
+
+A collection of daily Python practice programs focusing on **control flow and conditional logic**.
+
+## About
+
+Day 2 exercises introducing **if/else statements, elif chains, logical operators, nesting, and modulo operations** through practical mini-projects.
+
+## Projects Included
+
+### Conditional Statements
+- Basic `if-else` decision making (If-Else.py)
+- Multiple `if-elif-else` chains (Multiple-ifs.py)  
+- Nested conditionals (Nesting-and-Elif.py)
+
+### Logical Operations & Modulo
+- Even/odd number checker using `%` operator (Modulo.py)
+- Combined conditions with `and/or` (Logical-oparation.py)
+
+### Mini Projects
+- **Rollercoaster Billing System** (Multiple variations):
+  - Height/age-based pricing with photo add-on (Multiple-ifs.py, Logical-oparation.py, Nesting-and-Elif.py)
+- **Python Pizza Order Calculator**:
+  - Size-based pricing + pepperoni/cheese extras (Python-Pizza-Project.py)
+- **Treasure Island Adventure Game**:
+  - Multi-level story with 3-choice endings (Tressure-Island-Project.py)
+
+## Key Concepts Practiced
+
+**Control Flow**
+```python
+if condition:
+    # code block
+elif another_condition:
+    # alternative block
+else:
+    # default block
+
 
 ## Author
 
