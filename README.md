@@ -1,7 +1,7 @@
 # Python_Daily_-Projects
 Python Daily Projects practices 
 
-Day_01
+## Day_01
 
 A collection of daily Python practice programs created as part of my continuous learning journey.  
 This repository focuses on building strong fundamentals in Python through small exercises and mini projects.
@@ -79,7 +79,7 @@ A collection of daily Python practice programs focusing on **control flow and co
 
 ## About
 
-Day 2 exercises introducing **if/else statements, elif chains, logical operators, nesting, and modulo operations** through practical mini-projects.
+##Day 2 exercises introducing **if/else statements, elif chains, logical operators, nesting, and modulo operations** through practical mini-projects.
 
 ## Projects Included
 
@@ -99,20 +99,74 @@ Day 2 exercises introducing **if/else statements, elif chains, logical operators
   - Size-based pricing + pepperoni/cheese extras (Python-Pizza-Project.py)
 - **Treasure Island Adventure Game**:
   - Multi-level story with 3-choice endings (Tressure-Island-Project.py)
+ 
 
-## Key Concepts Practiced
+## Day 03 – Lists and Randomization
 
-**Control Flow**
-```python
-if condition:
-    # code block
-elif another_condition:
-    # alternative block
-else:
-    # default block
+This day focuses on understanding Python lists, indexing, nested lists, handling index errors, and using the random module to build small interactive programs.
 
+---
 
-## Author
+## Topics Covered
 
-Ullas K P  
-Aspiring Python Developer
+### Lists in Python
+- Creating lists
+- Accessing elements using index
+- Modifying list items
+- Using append() and extend()
+- Nested lists (List inside a list)
+
+### Index Errors and len()
+- Understanding IndexError
+- Accessing the last element using len()
+- Avoiding out-of-range errors
+
+### Random Module
+- random.randint()
+- random.random()
+- random.uniform()
+- random.choice()
+
+---
+
+## Programs Included
+
+### 1. Lists Practice
+- Created a list of U.S. states
+- Modified list elements
+- Added new elements using append() and extend()
+
+### 2. Index Error Demonstration
+- Demonstrated what happens when accessing an out-of-range index
+- Used len() to safely access the last element
+- Created nested lists (Dirty Dozen example)
+
+### 3. Random Module Practice
+- Generated random integers
+- Generated random floating numbers
+- Built a simple Heads or Tails program
+
+### 4. Banker Roulette
+- Selected a random person from a list
+- Used random.choice()
+- Used random index selection method
+
+### 5. Rock Paper Scissors Project
+- Built a complete mini game
+- Took user input
+- Generated computer choice randomly
+- Compared conditions using if-elif-else
+- Displayed ASCII art for better user experience
+
+---
+
+## Skills Developed
+
+- Working with lists
+- Understanding indexing and list boundaries
+- Using built-in functions like len()
+- Applying randomization in programs
+- Writing conditional logic
+- Building interactive console games
+
+---
