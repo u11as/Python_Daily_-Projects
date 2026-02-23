@@ -170,3 +170,67 @@ This day focuses on understanding Python lists, indexing, nested lists, handling
 - Building interactive console games
 
 ---
+
+## Day 04 – Loops and Password Generator
+
+This day focuses on understanding Python loops, working with ranges, solving logical problems using iteration, and building a practical mini project using loops and randomization.
+
+---
+
+## Topics Covered
+
+### For Loops
+- Iterating through lists
+- Executing repeated actions
+- Printing modified outputs inside loops
+
+### Range Function
+- Using range(start, stop)
+- Looping through numbers
+- Generating sequences
+- Calculating totals using loops
+
+### Logical Problem Solving
+- Finding the highest value in a list
+- Comparing values using conditional statements
+- Updating variables dynamically inside loops
+
+---
+
+## Programs Included
+
+### 1. For Loop Practice
+- Iterated through a list of items
+- Printed elements with additional text
+- Understood loop execution flow
+
+### 2. For Loop with Range
+- Printed numbers using range()
+- Calculated the sum of numbers from 1 to 100
+- Practiced numerical iteration
+
+### 3. Highest Score Program
+- Created a list of student scores
+- Used a loop to find the maximum value
+- Implemented comparison logic without using built-in max()
+
+### 4. Password Generator Project
+- Built a custom password generator
+- Took user input for number of letters, symbols, and numbers
+- Used random.choice() to generate characters
+- Combined loops and string concatenation
+- Generated dynamic passwords
+
+---
+
+## Skills Developed
+
+- Writing efficient for loops
+- Using range() effectively
+- Understanding iteration logic
+- Solving problems using comparison inside loops
+- Building real-world mini projects
+- Combining loops with randomization
+
+---
+
