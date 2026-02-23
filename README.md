@@ -170,7 +170,3 @@ This day focuses on understanding Python lists, indexing, nested lists, handling
 - Building interactive console games
 
 ---
-## Learning Outcome
-
-By the end of Day 03, I gained a strong understanding of list manipulation and randomization in Python. I also improved my ability to build small interactive projects using conditional statements and user input handling.
-
