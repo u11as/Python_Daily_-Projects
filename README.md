@@ -293,7 +293,3 @@ This day focuses on understanding functions in Python and applying logical think
 - Improving debugging skills
 
 ---
-
-## Learning Outcome
-
-By the end of Day 05, I gained a strong understanding of functions and how they improve code structure and reusability. I also developed better logical thinking by solving dynamic hurdle challenges using loops and condition-based navigation.
