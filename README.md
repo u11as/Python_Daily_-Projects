@@ -234,3 +234,66 @@ This day focuses on understanding Python loops, working with ranges, solving log
 
 ---
 
+## Day 05 – Functions and Advanced Logic Building
+
+This day focuses on understanding functions in Python and applying logical thinking to solve structured challenges using loops and conditions.
+
+---
+
+## Topics Covered
+
+### Functions in Python
+- Defining functions using def
+- Calling functions
+- Organizing reusable code blocks
+- Improving code readability
+
+### Code Reusability
+- Creating custom functions like turn_right()
+- Breaking complex logic into smaller functions
+- Avoiding repetition using functions
+
+### While Loops and Conditions
+- Using while loops for continuous execution
+- Checking conditions like wall_in_front()
+- Using logical control to navigate obstacles
+- Combining loops and conditionals effectively
+
+---
+
+## Programs and Challenges Completed
+
+### 1. Basic Function Practice
+- Created a simple function
+- Printed multiple statements inside a function
+- Called the function to execute code
+
+### 2. Hurdle Challenge – Level 1
+- Created custom turn_right() function
+- Built reusable one_block() function
+- Used for loop to repeat movement
+- Practiced structured problem solving
+
+### 3. Hurdle Challenge – Level 4 (Advanced)
+- Used while not at_goal() loop
+- Implemented condition checking
+- Solved dynamic obstacle pattern
+- Applied nested loops for movement logic
+- Built adaptive logic instead of fixed repetition
+
+---
+
+## Skills Developed
+
+- Writing and calling functions
+- Breaking large problems into smaller reusable parts
+- Logical thinking and flow control
+- Using while loops for dynamic conditions
+- Writing clean and structured code
+- Improving debugging skills
+
+---
+
+## Learning Outcome
+
+By the end of Day 05, I gained a strong understanding of functions and how they improve code structure and reusability. I also developed better logical thinking by solving dynamic hurdle challenges using loops and condition-based navigation.
