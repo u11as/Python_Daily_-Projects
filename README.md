@@ -336,6 +336,3 @@ On Day 06, I built a complete Hangman game using Python. This project combines l
 
 ---
 
-## Learning Outcome
-
-By completing Day 06, I learned how to build a fully functional game using modular programming and structured logic in Python.
