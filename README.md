@@ -293,3 +293,49 @@ This day focuses on understanding functions in Python and applying logical think
 - Improving debugging skills
 
 ---
+## Day 06 – Hangman Game (Modular Project)
+
+On Day 06, I built a complete Hangman game using Python. This project combines loops, conditionals, lists, random selection, and modular programming.
+
+---
+
+## Topics Covered
+
+- Random word selection using random.choice()
+- String and list manipulation
+- Tracking correct and incorrect guesses
+- Managing lives and game state
+- Using while loops for game control
+- Importing external Python files (modules)
+
+---
+
+## Project Files
+
+### main.py
+- Controls the game logic
+- Handles user input
+- Tracks lives and guesses
+- Displays win/lose messages
+- Shows hangman stages dynamically
+
+### hangman_words.py
+- Contains the word list used in the game
+
+### hangman_art.py
+- Contains ASCII art stages and game logo
+
+---
+
+## Skills Developed
+
+- Building a complete console game
+- Organizing code into multiple files
+- Writing structured and reusable logic
+- Improving problem-solving and debugging skills
+
+---
+
+## Learning Outcome
+
+By completing Day 06, I learned how to build a fully functional game using modular programming and structured logic in Python.
