@@ -384,7 +384,3 @@ On Day 07, I learned how to work with function parameters and built a complete C
 - Structuring a complete mini project
 
 ---
-
-## Learning Outcome
-
-By completing Day 07, I strengthened my understanding of function arguments and built a working encryption/decryption program using structured logic and looping techniques.
