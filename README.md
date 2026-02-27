@@ -335,4 +335,56 @@ On Day 06, I built a complete Hangman game using Python. This project combines l
 - Improving problem-solving and debugging skills
 
 ---
+## Day 07 – Caesar Cipher and Function Parameters
 
+On Day 07, I learned how to work with function parameters and built a complete Caesar Cipher encryption and decryption program.
+
+---
+
+## Topics Covered
+
+- Functions with inputs
+- Positional arguments
+- Keyword arguments
+- String manipulation
+- Looping through text
+- Modular arithmetic using %
+- Restarting programs using while loops
+
+---
+
+## Programs Included
+
+### Functions with Inputs
+- Created functions that accept parameters
+- Passed arguments to functions
+- Printed dynamic output using f-strings
+
+### Positional vs Keyword Arguments
+- Learned the difference between positional arguments
+- Used keyword arguments for clarity
+- Improved function readability
+
+### Caesar Cipher Project
+- Built an encryption and decryption program
+- Shifted letters using a custom alphabet list
+- Used modulo operator to handle large shifts
+- Ignored symbols and spaces properly
+- Added restart functionality using a loop
+- Imported external logo file for better presentation
+
+---
+
+## Skills Developed
+
+- Writing flexible functions with parameters
+- Understanding argument types
+- Implementing encryption logic
+- Handling edge cases in user input
+- Structuring a complete mini project
+
+---
+
+## Learning Outcome
+
+By completing Day 07, I strengthened my understanding of function arguments and built a working encryption/decryption program using structured logic and looping techniques.
