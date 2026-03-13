@@ -431,7 +431,3 @@ On Day 08, I learned how to work with dictionaries, nested data structures, and 
 - Building structured mini projects
 
 ---
-
-## Learning Outcome
-
-By completing Day 08, I gained a strong understanding of dictionaries and nested data structures, and applied these concepts to build a functional Blind Auction program.
