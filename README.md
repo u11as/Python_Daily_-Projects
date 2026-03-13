@@ -384,3 +384,54 @@ On Day 07, I learned how to work with function parameters and built a complete C
 - Structuring a complete mini project
 
 ---
+## Day 08 – Dictionaries and Blind Auction Project
+
+On Day 08, I learned how to work with dictionaries, nested data structures, and built a Blind Auction program using Python.
+
+---
+
+## Topics Covered
+
+- Creating and updating dictionaries
+- Retrieving values from dictionaries
+- Looping through dictionary keys and values
+- Nested lists and dictionaries
+- Storing structured data
+- Building programs using dictionary-based logic
+
+---
+
+## Programs Included
+
+### Dictionaries Practice
+- Created and modified dictionaries
+- Added and updated key-value pairs
+- Iterated through dictionary items using loops
+
+### Nested Lists and Dictionaries
+- Worked with lists inside dictionaries
+- Accessed nested elements using indexing
+- Stored structured travel data
+
+### Blind Auction Project
+- Built a program to collect bids from multiple users
+- Stored bidder names and bids in a dictionary
+- Used a function to determine the highest bidder
+- Cleared the screen between bidders for privacy
+- Displayed the final winner with the highest bid
+
+---
+
+## Skills Developed
+
+- Working with dictionaries and key-value pairs
+- Managing nested data structures
+- Storing and processing user input
+- Writing functions to process dictionary data
+- Building structured mini projects
+
+---
+
+## Learning Outcome
+
+By completing Day 08, I gained a strong understanding of dictionaries and nested data structures, and applied these concepts to build a functional Blind Auction program.
