@@ -431,3 +431,39 @@ On Day 08, I learned how to work with dictionaries, nested data structures, and 
 - Building structured mini projects
 
 ---
+## Day 09 – Functions with Output and Calculator Project
+
+On Day 09, I learned how to use functions with return values and built a calculator application using Python.
+
+---
+
+## Topics Covered
+
+- Functions with return values
+- Function chaining
+- Docstrings
+- Using dictionaries to store functions
+
+---
+
+## Programs Included
+
+### Functions with Output
+- Returned values from functions
+- Used formatted strings
+
+### Calculator Project
+- Built a calculator using functions (+, -, *, /)
+- Stored operations in a dictionary
+- Took user input for calculations
+- Allowed continuous calculations using loops
+
+---
+
+## Skills Developed
+
+- Writing reusable functions
+- Structuring logic using return values
+- Building interactive programs
+
+---
